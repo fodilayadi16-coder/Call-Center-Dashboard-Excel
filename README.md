@@ -179,7 +179,7 @@ Call-Center-KPI-Dashboard/
 
 ## Dashboard Preview
 
-Add screenshots of your dashboard inside the **screenshots/** folder and display them here.
+Screenshots of dashboard inside the **screenshots/** folder.
 
 Example:
 
